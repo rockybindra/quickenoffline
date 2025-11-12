@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "to Install, Download, and Reinstall Quicken on a New Computer: Step-by-Step Guide via Quicken.com"
+html_title = "to Download and Install Quicken Classic Desktop on Windows 11: Step-by-Step Guide for 2025"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
